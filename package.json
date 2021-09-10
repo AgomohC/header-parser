@@ -1,0 +1,26 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgomohC/header-parser-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgomohC/header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/AgomohC/header-parser-microservice#readme"
+}
