@@ -1,7 +1,7 @@
 {
   "name": "header-parser-microservice",
   "version": "1.0.0",
-  "description": "",
+  "description": "A header parser microservice built for the freeCodeCamp's back end and api challenges",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/AgomohC/header-parser-microservice.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chinaemerem Agomoh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AgomohC/header-parser-microservice/issues"
