@@ -13,9 +13,11 @@ app.get("/api/whoami", (req, res) => {
   const userAgent = req.headers["user-agent"];
   const lang = req.headers["accept-language"];
 
-  res.json({ ipaddress: ip, language: lang, software: userAgent });
+  return res.json({ ipaddress: ip, language: lang, software: userAgent });
 });
-
+app.use((req, res) => {
+  return res.status(404).send("not found");
+});
 //port
 const port = process.env.PORT || 8080;
 
