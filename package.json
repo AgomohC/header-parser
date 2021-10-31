@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/AgomohC/header-parser-microservice/issues"
   },
-  "homepage": "https://github.com/AgomohC/header-parser-microservice#readme",
+  "homepage": "https://femto-header-parser.glitch.me/",
   "engines": {
     "node": "14.x"
   }
