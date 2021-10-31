@@ -1,6 +1,6 @@
 # Header Parser
 
-[femto-header-parser](#) is a full stack app that parses the header of the user and returns their IP address, language and user agent. This project idea was gotten from [freeCodeCamp](#).
+[femto-header-parser](#) is a full stack app that parses the request header of the user and returns their IP address, language and user agent. This project idea was gotten from [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).
 
 ---
 
